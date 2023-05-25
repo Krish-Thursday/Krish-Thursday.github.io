@@ -1,0 +1,13 @@
+body {
+    background-color:khaki ;
+  }
+  
+  h1 {
+    color: black(173, 156, 156);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font: size 50px;
+  }
